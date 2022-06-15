@@ -15,9 +15,14 @@ Tools used:
 
 
 GraphQL Queries are following 
+
+
 ![Screenshot 2022-06-15 221641](https://user-images.githubusercontent.com/56496945/173889921-deb8fdb0-c970-47d8-a08e-6a9fd52a5380.jpg)
 
+
 GraphQL mutations are following
+
+
 ![Screenshot 2022-06-15 221625](https://user-images.githubusercontent.com/56496945/173889946-62ac5f00-19f7-49f3-bb34-9531151fb821.jpg)
 
 
