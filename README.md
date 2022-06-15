@@ -15,8 +15,9 @@ Tools used:
 
 
 GraphQL Queries are following 
+<img src='./backend/"Screenshot 2022-06-15 221641.jpg"'/>
 
 GraphQL mutations are following
-
+<img src='./backend/"Screenshot 2022-06-15 221625.jpg"'/>
 
 
