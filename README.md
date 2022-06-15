@@ -15,9 +15,9 @@ Tools used:
 
 
 GraphQL Queries are following 
-<img src='./backend/"Screenshot 2022-06-15 221641.jpg"'/>
+<img src='[./backend/"Screenshot 2022-06-15 221641.jpg"](https://github.com/UmarHassanKhan929/personal-project-management-system/tree/main/backend)'/>
 
 GraphQL mutations are following
-<img src='./backend/"Screenshot 2022-06-15 221625.jpg"'/>
+<img src='[./backend/"Screenshot 2022-06-15 221625.jpg"](https://github.com/UmarHassanKhan929/personal-project-management-system/tree/main/backend)'/>
 
 
