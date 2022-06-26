@@ -1,7 +1,8 @@
 # personal-project-management-system
 
-A project managment system made using MERN stack alonog side GraphQL and Apollo.
-You can Enter and save your client contact info, you can keep track of your clients projects, keep track of projects of clients. 
+A project management system made using MERN stack alongside GraphQL and Apollo. 
+
+You can Enter and save your client contact info, you can keep track of your client's projects, and keep track of projects clients.
 
 Tools used:
   - React Js on frontend
